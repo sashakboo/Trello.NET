@@ -28,3 +28,5 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.nupkg
 packages/
+/ConsoleApp1
+/.vs/TrelloNet/v16/Server/sqlite3
